@@ -1,4 +1,3 @@
-grunt-laravel-foundation-compass
-================================
-
-Using grunt with laravel, compass and foundation 5 framework
+Laravel + Grunt + Compass + Foundation 5 + Bower
+==========================================================
+Configuring laravel framework with foundation 5, compass, bower components and grunt.
