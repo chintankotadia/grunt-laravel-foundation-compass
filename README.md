@@ -19,16 +19,16 @@ webroot/
 │
 ├── app/
 │   └── assets/
-│       └── scss
+│       └── scss/
 │           └── ...
-│       └── js
+│       └── js/
 │           └── ...
 │
 ├── public/
 │   └── assets/
-│       └── css
+│       └── css/
 │           └── ...
-│       └── images
+│       └── images/
 │           └── ...
-│       └── js
+│       └── js/
 │           └── ...
