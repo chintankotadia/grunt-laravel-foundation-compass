@@ -14,11 +14,21 @@ Configuring laravel framework with foundation 5, compass, bower components and g
 - grunt
 
 ####Directory Structure
-- app 
-  - scss
-  - js
-
-- public
-  - css
-  - js 
-  - images
+```
+webroot/
+│
+├── app/
+│   └── assets/
+│       └── scss
+│           └── ...
+│       └── js
+│           └── ...
+│
+├── public/
+│   └── assets/
+│       └── css
+│           └── ...
+│       └── images
+│           └── ...
+│       └── js
+│           └── ...
