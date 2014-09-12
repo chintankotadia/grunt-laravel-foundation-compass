@@ -1,0 +1,31 @@
+{
+  "name": "GruntWithFoundationAndCompass",
+  "version": "0.0.1",
+  "description": "Grunt with foundation 5 framework, bower, compass, sass and laravel",
+  "main": "Gruntfile.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chintankotadia/grunt-laravel-foundation-compass.git"
+  },
+  "author": "Chintan Kotadia",
+  "keywords": [
+    "Grunt",
+    "Foundation 5 Framework",
+    "Bower",
+    "Compass",
+    "SASS",
+    "Laravel"
+  ],
+  "bugs": {
+    "url": "https://github.com/chintankotadia/grunt-laravel-foundation-compass/issues"
+  },
+  "license": "BSD",
+  "devDependencies": {
+    "node-sass": "~0.9.3",
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-sass": "~0.8.1",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-contrib-uglify": "~0.4.0"
+  }
+}

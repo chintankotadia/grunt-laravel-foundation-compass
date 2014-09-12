@@ -1,0 +1,6 @@
+{
+  "name": "GruntWithFoundationAndCompass",
+  "dependencies": {
+    "foundation": "zurb/bower-foundation"
+  }
+}
